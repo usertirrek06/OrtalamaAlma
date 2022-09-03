@@ -1,0 +1,2 @@
+# OrtalamaAlma
+Patika-C#-Projeleri
