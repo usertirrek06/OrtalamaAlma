@@ -1,0 +1,13 @@
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.exe
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.deps.json
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.runtimeconfig.json
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.runtimeconfig.dev.json
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.dll
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.pdb
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.csprojAssemblyReference.cache
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.AssemblyInfoInputs.cache
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.AssemblyInfo.cs
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.dll
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.pdb
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.genruntimeconfig.cache
