@@ -1,0 +1,13 @@
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\bin\Debug\netcoreapp3.1\OrtalamaAlma.exe
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\bin\Debug\netcoreapp3.1\OrtalamaAlma.deps.json
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\bin\Debug\netcoreapp3.1\OrtalamaAlma.runtimeconfig.json
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\bin\Debug\netcoreapp3.1\OrtalamaAlma.runtimeconfig.dev.json
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\bin\Debug\netcoreapp3.1\OrtalamaAlma.dll
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\bin\Debug\netcoreapp3.1\OrtalamaAlma.pdb
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\obj\Debug\netcoreapp3.1\OrtalamaAlma.csprojAssemblyReference.cache
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\obj\Debug\netcoreapp3.1\OrtalamaAlma.AssemblyInfoInputs.cache
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\obj\Debug\netcoreapp3.1\OrtalamaAlma.AssemblyInfo.cs
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\obj\Debug\netcoreapp3.1\OrtalamaAlma.csproj.CoreCompileInputs.cache
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\obj\Debug\netcoreapp3.1\OrtalamaAlma.dll
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\obj\Debug\netcoreapp3.1\OrtalamaAlma.pdb
+C:\Users\Tarık Buğra\source\repos\OrtalamaAlma\OrtalamaAlma\obj\Debug\netcoreapp3.1\OrtalamaAlma.genruntimeconfig.cache
